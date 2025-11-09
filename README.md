@@ -12,6 +12,8 @@ Berlin, Germany 🇩🇪
 **Monitoring & Security:** Prometheus, Grafana, CloudWatch, IAM, KMS, VPC  
 **Finance:** Quantitative Modeling, FinOps, SaaS Product Design  
 
+---
+
 ### 🌍 Let’s Connect  
 <p align="left">
   <a href="https://linkedin.com/in/raminfazli" target="_blank">
@@ -21,6 +23,3 @@ Berlin, Germany 🇩🇪
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
   </a>&nbsp;&nbsp;
 </p>
-
-
----
