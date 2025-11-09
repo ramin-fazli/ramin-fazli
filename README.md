@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ramin Fazli  
 
-<!--
-**ramin-fazli/ramin-fazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AWS Certified Solutions Architect | Cloud/DevOps/FinOps**  
+Berlin, Germany 🇩🇪  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack  
+**Cloud & DevOps:** AWS (EC2, EKS, RDS, S3, SageMaker), GCP, Terraform, Docker, Kubernetes, CI/CD, Linux  
+**Programming:** Python, TypeScript/Node.js, SQL  
+**AI/ML:** MLflow, TensorFlow, Scikit-learn, LangChain, LLMs  
+**Monitoring & Security:** Prometheus, Grafana, CloudWatch, IAM, KMS, VPC  
+**Finance:** Quantitative Modeling, FinOps, SaaS Product Design  
+
+### 🌍 Let’s Connect  
+<p align="left">
+  <a href="https://linkedin.com/in/raminfazli" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/ramin-fazli" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+</p>
+
+
+---
